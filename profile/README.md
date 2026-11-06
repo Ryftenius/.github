@@ -20,7 +20,7 @@
 
 They stop asking whether it can be detected and start proving it, from both ends.
 
-Ryftenius is a specialized R&D collective working on Windows security from userland to the kernel, building offensive and defensive systems before the problem has a name.
+Ryftenius is a specialized R&D collective working on Windows security from userland to the kernel, building the offensive and defensive tooling to meet the next generation of AI-accelerated malware.
 
 We use the best tools available, and where they fall short, we engineer our own, from full detection platforms to the offensive tooling built to defeat them.
 
